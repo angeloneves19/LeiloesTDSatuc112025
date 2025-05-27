@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.util.List;
-import java.util.ArrayList;
 
 public class TelaVendas extends JFrame {
     private JTable tabelaVendas;
